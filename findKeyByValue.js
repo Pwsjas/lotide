@@ -4,5 +4,4 @@ const findKeyByValue = function(objToSearch, value) {
       return key;
     }
   }
-  return undefined;
 };
