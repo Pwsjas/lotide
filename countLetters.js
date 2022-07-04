@@ -11,7 +11,4 @@ const countLetters = function (letters) {
   }
   return output;
 };
-
-//function isLetter(c) {
-  // return c.toLowerCase() != c.toUpperCase();
-// }
+module.exports = countLetters;

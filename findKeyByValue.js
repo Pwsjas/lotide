@@ -5,3 +5,4 @@ const findKeyByValue = function(objToSearch, value) {
     }
   }
 };
+module.exports = findKeyByValue;
