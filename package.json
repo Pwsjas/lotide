@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@pwsjas/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library.  This was made for learning purposes and is not intended to be used.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Pwsjas/lotide.git"
   },
-  "author": "",
+  "author": "Philip Simpson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Pwsjas/lotide/issues"
